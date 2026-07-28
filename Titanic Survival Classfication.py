@@ -27,7 +27,7 @@ pd.set_option('display.width', 1000)
 # -----------------------------------------------------------
 # 1. LOAD DATA & INITIAL SUMMARY
 # -----------------------------------------------------------
-df = pd.read_csv(r'c:\Users\NEW LAPTOP CITY\.vscode\Internship Projects\2. Project 1\train.csv')
+df = pd.read_csv(r'c:train.csv')
 
 print("="*70)
 print(" 1. INITIAL DATASET OVERVIEW (FOR INTRODUCTION SECTION)")
