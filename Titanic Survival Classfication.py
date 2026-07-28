@@ -1,12 +1,3 @@
-#===========================================================
-#                Titanic Survival Classification
-# Use the Titanic dataset from Kaggle, build a machine learning
-# model to predict whether a passenger survived or not based on
-# features like age,gender, ticket class, and fare. Your task 
-# is to clean and pre-process the data, train a classification 
-# model, and evaluate its performance.
-#===========================================================
-
 
 # ===========================================================
 #                 Titanic Survival Classification
